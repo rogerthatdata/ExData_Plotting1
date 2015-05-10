@@ -4,7 +4,7 @@ This project is a folk of https://github.com/rdpeng/ExData_Plotting1 for the fir
 * plot2.R
 * plot3.R
 * plot4.R
-which create four individual PNG plot files, that are also contained within this repository:
+<br>which create four individual PNG plot files, that are also contained within this repository:</br>
 * plot1.png
 * plot2.png
 * plot3.png
