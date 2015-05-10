@@ -1,3 +1,19 @@
+## Course Assignment Update
+This project is a folk of https://github.com/rdpeng/ExData_Plotting1 for the first class assignment in the course <b>Exploring Data Analysis</b>. This update contains for R files:
+*plot1.R
+*plot2.R
+*plot3.R
+*plot4.R
+which create four individual PNG plot files, that are also contained within this repository:
+*plot1.png
+*plot2.png
+*plot3.png
+*plot4.png
+
+Each of the four R files are defined as a function of the filename with an optional boolean parameter, when set to FALSE the function will produce the plot to the screen, when set to TRUE or not supplied the function will produce the corresponding PNG file for the plot.
+
+*The following text is from the original forked file and provides more background on the source and values of the data and details on completing the assignment...*
+
 ## Introduction
 
 This assignment uses data from
